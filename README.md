@@ -8,4 +8,4 @@
 - Get all statistics of the guess the number with `gtnstats`
 - Customizeable prefix.
 
-Made With love by `ᴰᵉᵛ𝓦𝓪𝓵𝓴𝓮𝓻4𝓮𝓿𝓮𝓻#6969`.
+Made With love by `Bumblebee a.k.a. Blurr`.
